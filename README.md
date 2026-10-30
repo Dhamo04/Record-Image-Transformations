@@ -72,10 +72,10 @@ Read the input image in color mode.
 ##  Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name:** DHAMODHARAN S 
 
 ### Register No:
-____________________________  
+212225230049 
 
 ---
 
