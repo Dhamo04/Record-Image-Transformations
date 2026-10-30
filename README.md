@@ -74,9 +74,8 @@ Read the input image in color mode.
 ### Developed By:
 **Name:** DHAMODHARAN S 
 
-### Register No:
-212225230049 
-
+### Register No: 212225230049 
+ 
 ---
 
 ##  Output
